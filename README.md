@@ -16,6 +16,7 @@
 - 서버 : Tomcat
 
 ## 구현 기능
+
 ### 1. 기본적인 CRUD 와 페이징 및 검색 처리
 
 ![image](https://user-images.githubusercontent.com/63898556/123822982-b818e500-d937-11eb-8b3c-a1539190a757.png)
@@ -40,4 +41,27 @@
 ![image](https://user-images.githubusercontent.com/63898556/123824974-74bf7600-d939-11eb-9d72-1d34ee8a040a.png)
 
 ![image](https://user-images.githubusercontent.com/63898556/123825055-89037300-d939-11eb-91fd-82674adfa49a.png)
+
+
+### 3. Ajax 를 이용한 파일 업로드
+
+![image](https://user-images.githubusercontent.com/63898556/124795766-5e459a00-df8b-11eb-9742-2fcb3b7c0ded.png)
+
+![image](https://user-images.githubusercontent.com/63898556/124795814-70273d00-df8b-11eb-80f3-76d7060d0b46.png)
+
+![image](https://user-images.githubusercontent.com/63898556/124795854-7b7a6880-df8b-11eb-8290-bf8bc3682810.png)
+
+![image](https://user-images.githubusercontent.com/63898556/124795881-83d2a380-df8b-11eb-820f-ff87db0f3caa.png)
+
+![image](https://user-images.githubusercontent.com/63898556/124795932-8f25cf00-df8b-11eb-9192-13f86b27efeb.png)
+
+![image](https://user-images.githubusercontent.com/63898556/124795966-96e57380-df8b-11eb-930f-f4b08c3728a1.png)
+
+![image](https://user-images.githubusercontent.com/63898556/124796002-a2389f00-df8b-11eb-8c6e-5d88077b9f7b.png)
+
+![image](https://user-images.githubusercontent.com/63898556/124796027-a8c71680-df8b-11eb-86af-8d751afc5b3a.png)
+
+
+
+
 
